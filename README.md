@@ -21,7 +21,7 @@
  * ***For sending msg alerts:*** 
    * Enter your gmail email address for ```email_addr``` var.
    * Get ```app pwd``` by going into ***gmail account*** -> ***security*** -> ***Turn On 2-Step Verification*** and then click on ```App password```. Select ***app*** and choose ```other``` enter ```msg Alert``` and select ```generate```. Copy that app password and paste it into your ```app_pwd``` env var.
-   * For entering your phone number on line 25 with proper mobile carrier's SMS Gateway Address, refer to the following:
+   * For entering your phone number on line 24 with proper mobile carrier's SMS Gateway Address, refer to the following:
      * Verizon – number@vtext.com
      * T-Mobile – number@tmomail.net
      * Sprint – number@messaging.sprintpcs.com
